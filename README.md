@@ -1,7 +1,7 @@
 # Lib example
 
 ## Dependências
-- Biblioteca lodash
+- [Biblioteca lodash](https://github.com/lodash/lodash)
 
 ## Funcionalidade
 
