@@ -34,3 +34,8 @@ module.exports = {
   getMonthCurrent,
   mult,
 };
+
+
+const minus = (a, b) => {
+  return _.subtract(a, b);
+}
