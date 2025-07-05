@@ -25,7 +25,7 @@ function getMonthCurrent() {
   return months[monthCurrent];
 }
 
-const mult = (a, b) => {
+const multiply = (a, b) => {
   return _.multiply(a, b);
 };
 
@@ -36,7 +36,7 @@ const minus = (a, b) => {
 module.exports = {
   fullName,
   getMonthCurrent,
-  mult,
+  multiply,
   minus
 };
 
