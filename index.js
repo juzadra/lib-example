@@ -29,13 +29,15 @@ const mult = (a, b) => {
   return _.multiply(a, b);
 };
 
+const minus = (a, b) => {
+  return _.subtract(a, b);
+}
+
 module.exports = {
   fullName,
   getMonthCurrent,
   mult,
+  minus
 };
 
 
-const minus = (a, b) => {
-  return _.subtract(a, b);
-}
